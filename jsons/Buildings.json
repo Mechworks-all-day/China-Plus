@@ -17,7 +17,7 @@
 		"uniqueTo": "China",
 		"cost": 400,
 		"hurryCostModifier": 40,
-		"maintenance": 1,
+		"maintenance": 0,
 		"uniques": ["[+1 Happiness][in all cities]", "Never destroyed when the city is captured","May choose [1] additional [Founder] beliefs when [founding] a religion", "[+10]% Great Person generation [in all cities]","Unbuildable"]
 		"isNationalWonder": true
 	},
