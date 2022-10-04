@@ -1,2 +1,8 @@
 02-10-2022 (Version 0.8)
 Initial public upload, considered pre-1.0 only because I can't make images work myself.
+
+02-10-2022 (Version 0.8.1) (+3 hours, that didn't take long)
+Fixed Autocorrupt having changed "Grand Temple" to "Granted Temple" without me noticing,
+Temporarily changed Rice bonus to just check the base terrain even though that's not the desired behavior, 
+pending me re-reading the tileFilter section to see if I can work out the right syntax for 'Farm that is also on a hill' 
+and 'farm that is also on a river'
