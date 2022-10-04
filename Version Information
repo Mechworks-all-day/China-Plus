@@ -6,3 +6,6 @@ Fixed Autocorrupt having changed "Grand Temple" to "Granted Temple" without me n
 Temporarily changed Rice bonus to just check the base terrain even though that's not the desired behavior, 
 pending me re-reading the tileFilter section to see if I can work out the right syntax for 'Farm that is also on a hill' 
 and 'farm that is also on a river'
+
+03-10-2022 (Version 0.8.2) (it's *barely* past midnight, but it counts.)
+Fixed (hopefully) the issue with Rice so it will work as intended. Hopefully. Cross your fingers.
