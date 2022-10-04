@@ -26,7 +26,7 @@
    	        "uniqueTo": "China",
 		"cost": 40,
 		"maintenance": 0,
-		"uniques": ["[+1 Food] from [Hill] tiles [in this city]","[+2 Food] from [River] tiles without [Hill] [in this city]"]
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city] <in [Hill] tiles>","[+2 Food] from [Farm] tiles without [Hill] [in this city] <in [River] tiles>"]
 	},
 	
    //Religion stuff 
