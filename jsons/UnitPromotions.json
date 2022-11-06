@@ -9,7 +9,13 @@
 	},
 {
 		"name": "Honored Sons", 
-		"uniques": ["Improves movement speed on roads <when not at war>", "[+2] Movement <when at war>","[-8]% Gold cost of upgrading"]
+		"uniques": [
+//                            "Improves movement speed on roads <when not at war>", 
+//That doesn't work, sooo-
+                            "[+3] Movement <in [Friendly Land] tiles> <when not at war>",
+                            "[+2] Movement <when at war>",
+                            "[-8]% Gold cost of upgrading"
+                           ]
 	},
 {
 		"name":  "Death Ground", 
