@@ -13,5 +13,11 @@ Fixed (hopefully) the issue with Rice so it will work as intended. Hopefully. Cr
 03-10-2022 (Version 0.8.3) (close enough to 10 am for government work)
 Icons are now working thanks to Bamboolord, imaginary cookie has been dispached.
 
-03-10-2023 (Version 0.8.4) (not even five minutes T^T)
+03-10-2022 (Version 0.8.4) (not even five minutes T^T)
 Reduced icon size to 60×60 to lower overhead (and the actual data size, ha) and changed the Promotion ones to white so they'll tint properly.
+
+10-11-2022 (Version 0.9)
+Major refactor of various building effects, minor fixes to previously nonfunctional things rolled in.
+
+Should be the last one... Before GLORIOUS NIPPON!
+
