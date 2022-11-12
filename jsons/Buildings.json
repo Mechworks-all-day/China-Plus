@@ -35,7 +35,9 @@
     "maintenance": 0,
     "uniques": [
                 "[+1 Food] from [Farm] tiles [in this city] <in [Hill] tiles>",
-                "[+2 Food] from [Farm] tiles without [Hill] [in this city] <in [River] tiles>"
+                "[+2 Food] from [Farm] tiles without [Hill] [in this city] <in [River] tiles>",
+                "Unbuildable",
+                "Unsellable"
                ]
   },
 	
