@@ -123,7 +123,7 @@
     "name": "Martial Arts",
     "requiredBuilding": "Barracks",
     "uniqueTo": "China",
-    "cost": 60",
+    "cost": 60,
     "hurryCostModifier": 25,
     "maintenance": 1,
     "uniques": [
