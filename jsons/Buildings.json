@@ -215,7 +215,7 @@
     "uniqueTo": "China",
     "replaces": "Opera House",
     "culture": 2,
-    "food":2",
+    "food":2,
     "specialistSlots": {"Artist": 1},
     "hurryCostModifier": 10,
     "requiredBuilding": "Amphitheater",
