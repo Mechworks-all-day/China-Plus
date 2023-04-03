@@ -115,7 +115,7 @@
     "uniques": [
                 "New [Military] units start with [20] Experience [in this city]", 
                 "Destroyed when the city is captured",
-                "All newly-trained [land melee] units [in this city] receive the [Imperial Drilling] promotion"
+                "All newly-trained [{Land} {Melee}] units [in this city] receive the [Imperial Drilling] promotion"
                ],
     "requiredTech": "Bronze Working"
   },
