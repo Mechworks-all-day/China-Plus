@@ -258,7 +258,7 @@
                 "Free Technology", 
                 "Cost increases by [30] per owned city",
                 "May choose [1] additional belief(s) of any type when [enhancing] a religion",
-                "May buy [Great General] units for [1000] [Gold] [in this city] <when not at war>",
+                "May buy [Great General] units for [500] [Faith] [in this city] <when not at war>",
                 "[+25]% Production when constructing [Military] units [in all cities] <when at war>"
                ],
     "requiredTech": "Education"
